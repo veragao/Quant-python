@@ -10,4 +10,4 @@ Here is my [Basics Jupyter Notebook](http://localhost:8888/notebooks/Documents/G
 
 
 ## python secret project
-There are lots of good algorithm questions on a certain site, and here are my [solutions](http://localhost:8888/notebooks/Documents/GitHub/quant-python/python-secret-notebook-empty.ipynb)
+There are lots of good algorithm questions on a certain site, and here are my [solutions](http://localhost:8888/notebooks/Documents/GitHub/quant-python/python-secret-notebook-empty.ipynb).
